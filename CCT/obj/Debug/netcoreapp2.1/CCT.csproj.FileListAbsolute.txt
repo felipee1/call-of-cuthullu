@@ -1,0 +1,11 @@
+C:\Users\felip\Desktop\call of cuthullu\CCT\bin\Debug\netcoreapp2.1\CCT.deps.json
+C:\Users\felip\Desktop\call of cuthullu\CCT\bin\Debug\netcoreapp2.1\CCT.runtimeconfig.json
+C:\Users\felip\Desktop\call of cuthullu\CCT\bin\Debug\netcoreapp2.1\CCT.runtimeconfig.dev.json
+C:\Users\felip\Desktop\call of cuthullu\CCT\bin\Debug\netcoreapp2.1\CCT.dll
+C:\Users\felip\Desktop\call of cuthullu\CCT\obj\Debug\netcoreapp2.1\CCT.csprojAssemblyReference.cache
+C:\Users\felip\Desktop\call of cuthullu\CCT\obj\Debug\netcoreapp2.1\CCT.csproj.CoreCompileInputs.cache
+C:\Users\felip\Desktop\call of cuthullu\CCT\obj\Debug\netcoreapp2.1\CCT.RazorAssemblyInfo.cache
+C:\Users\felip\Desktop\call of cuthullu\CCT\obj\Debug\netcoreapp2.1\CCT.RazorAssemblyInfo.cs
+C:\Users\felip\Desktop\call of cuthullu\CCT\obj\Debug\netcoreapp2.1\CCT.AssemblyInfoInputs.cache
+C:\Users\felip\Desktop\call of cuthullu\CCT\obj\Debug\netcoreapp2.1\CCT.AssemblyInfo.cs
+C:\Users\felip\Desktop\call of cuthullu\CCT\obj\Debug\netcoreapp2.1\CCT.RazorTargetAssemblyInfo.cache
